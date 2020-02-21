@@ -1,0 +1,29 @@
+{
+  "name": "roxan",
+  "description": "JSON + Circular References + Streamable Output",
+  "homepage": "https://github.com/ElenaKay/roxan",
+  "main": "index.js",
+  "files": [ "index.js" ],
+  "version": "0.0.0-prealpha",
+  "author": {
+    "name": "Elena Mir Karimi",
+    "email": "elena.karymy@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElenaKay/roxan"
+  },
+  "bugs": { "url": "https://github.com/ElenaKay/roxan/issues" },
+  "license": "MIT",
+  "keywords": [
+    "json",
+    "stringify",
+    "object",
+    "recursive",
+    "circular",
+    "reference",
+    "cyclic",
+    "self-referential",
+    "notation"
+  ]
+}
